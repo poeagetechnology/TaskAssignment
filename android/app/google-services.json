@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938624740251",
+    "project_id": "sago-builders",
+    "storage_bucket": "sago-builders.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938624740251:android:afecfde25623c6b8ae4f3e",
+        "android_client_info": {
+          "package_name": "com.taskassignment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938624740251-mipuf593cju090a10s6vetd3mln17ss0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DP4553YDcC9WltEIyfP1fT03ITbZgQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938624740251-mipuf593cju090a10s6vetd3mln17ss0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
